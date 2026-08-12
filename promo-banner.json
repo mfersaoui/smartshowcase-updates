@@ -26,7 +26,8 @@
         {
             "text": "Découvrir Digit Progress",
             "link": "https://digitprogress.fr",
-            "bg_color": "#C2185B"
+            "bg_color": "#C2185B",
+            "text_color": "#fff"
         }
     ]
 }
